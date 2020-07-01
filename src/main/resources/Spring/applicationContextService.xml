@@ -11,6 +11,6 @@
 	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd">
 
 	<!-- 配置service扫描 -->
-	<context:component-scan base-package="com.emp.service.Impl" />
+	<context:component-scan base-package="com.emp.service.*" />
 
 </beans>
