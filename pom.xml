@@ -98,7 +98,7 @@
       <freemarker.version>2.3.22</freemarker.version>
       <lombok.version>1.18.8</lombok.version>
       <validation-api.version>2.0.1.Final</validation-api.version>
-      <hibernate-validator.version>5.1.0.Final</hibernate-validator.version>
+      <hibernate-validator.version>6.0.23.Final</hibernate-validator.version>
       <javax.el-api.version>3.0.0</javax.el-api.version>
     </properties>
 
